@@ -11,3 +11,5 @@ Ania
 =======
 >>>>>>> licencja
 ## Licencja
+
+## Koniec jest blisko
