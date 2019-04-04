@@ -7,5 +7,4 @@ Kolejna linia
 ## Autorzy
 Ania
 
-
 ## Licencja
