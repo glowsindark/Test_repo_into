@@ -4,7 +4,10 @@ Kolejna linia
 
 ## Opis rozszerzony
 
+<<<<<<< HEAD
 ## Autorzy
 Ania
 
+=======
+>>>>>>> licencja
 ## Licencja
